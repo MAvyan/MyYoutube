@@ -121,7 +121,7 @@ const Video = () => {
         </VideoWrapper>
         <Title>Test Video</Title>
         <Details>
-          <Info>7,948,154 views • Jun 22, 2022</Info>
+          <Info>7,948,154 views • Jun 22, 2024</Info>
           <Buttons>
             <Button>
               <ThumbUpOutlinedIcon /> 123
@@ -145,14 +145,11 @@ const Video = () => {
               <ChannelName>Yannis Mavinga</ChannelName>
               <ChannelCounter>200K subscribers</ChannelCounter>
               <Description>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Doloribus laborum delectus unde quaerat dolore culpa sit aliquam
-                at. Vitae facere ipsum totam ratione exercitationem. Suscipit
-                animi accusantium dolores ipsam ut.
+                Test Description
               </Description>
             </ChannelDetail>
           </ChannelInfo>
-          <Subscribe>SUBSCRIBE</Subscribe>
+          <Subscribe>Subscribe</Subscribe>
         </Channel>
         <Hr />
         <Comments/>

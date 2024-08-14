@@ -57,7 +57,7 @@ const Card = ({ type }) => {
       <Container type={type}>
         <Image
           type={type}
-          src="https://i9.ytimg.com/vi_webp/k3Vfj-e1Ma4/mqdefault.webp?v=6277c159&sqp=CIjm8JUG&rs=AOn4CLDeKmf_vlMC1q9RBEZu-XQApzm6sA"
+          src="https://sonovision.com/wp-content/uploads/sites/2/2020/03/Epitech001.jpeg"
         />
         <Details type={type}>
           <ChannelImage
